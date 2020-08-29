@@ -3,8 +3,8 @@
         <app-header></app-header>
         <b-container>
             <b-row class="justify-content-center">
-                <list-products></list-products>
                 <add-product></add-product>
+                <list-products></list-products>
             </b-row>
         </b-container>
     </div>
